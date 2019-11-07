@@ -1,0 +1,116 @@
+html {
+  background-color: #f2f2f2;
+  font-family: sans-serif;
+}
+
+.top_text {
+  display: block;
+  margin-bottom: 5%;
+  margin-top: 5%;
+  text-align: center;
+}
+
+.top_text p {
+  font-size: 18px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 4%;
+  width: 900px;
+}
+
+.range {
+  display: block;
+  margin-left: 38%;
+  width: 571px;
+}
+
+.submitButtonRange {
+  background: #99b3ff;
+  border: none;
+  color: #fff;
+  display: block;
+  margin-bottom: 5%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  padding: 8px 15px 8px 15px;
+  width: 125px;
+}
+
+.opperator1 {
+  width: 100%;
+}
+
+.opperator2 {
+  margin-top: 1%;
+  width: 100%;
+}
+
+.opperator1 select {
+  display: block;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+}
+
+.submitButtonFunc {
+  background: #99b3ff;
+  border: none;
+  color: #fff;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 8px 15px 8px 15px;
+  width: 200px;
+}
+
+.answer h3 {
+  margin-top: 3%;
+  text-align: center;
+}
+
+.answer .num {
+  display: block;
+  height: 30px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.submitButtonAns {
+  background: #99ff99;
+  border: none;
+  color: #00001a;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 1%;
+  padding: 8px 15px 8px 15px;
+}
+
+.submitButtonRes {
+  background: #ff3333;
+  border: none;
+  color: #fff;
+  display: block;
+  margin-bottom: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5%;
+  padding: 8px 15px 8px 15px;
+}
+
+.alert {
+  color: red;
+  text-align: center;
+}
+
+.correct {
+  color: green;
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
